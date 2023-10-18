@@ -1,4 +1,6 @@
 # Final Project game server
-## Service
-1. docker
-2. pterodactyl
+## requirement
+1. ubuntu server 20.04
+## serverice yang digunakan
+1. pterodactyl
+2. docker
