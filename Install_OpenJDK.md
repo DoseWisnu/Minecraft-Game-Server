@@ -15,4 +15,4 @@
 
 <code>sudo java --version</code>
 
-
+![tiga](img/OpenJDK/3.png)
