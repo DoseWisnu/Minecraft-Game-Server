@@ -10,3 +10,9 @@
 <code>sudo apt install openjdk-17-jre-headless</code>
 
 ![dua](img/OpenJDK/2.png)
+
+## Verify version
+
+<code>sudo java --version</code>
+
+
