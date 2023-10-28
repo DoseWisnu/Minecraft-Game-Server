@@ -7,6 +7,6 @@
 
 ## cara Install OpenJDK
 
-<code>sudo apt install openjdk-17-jre-headless
+<code>sudo apt install openjdk-17-jre-headless</code>
 
 ![dua](img/OpenJDK/2.png)
