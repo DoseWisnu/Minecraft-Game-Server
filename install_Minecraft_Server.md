@@ -5,6 +5,7 @@ Openjdk
 
 ## Cara install Minecraft Server
 1. membuat direktori 
+
 <code>mkdir Minecrarft</code>
 
 <code>cd mindecraft</code>
