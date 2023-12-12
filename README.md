@@ -1,9 +1,6 @@
 # Final Project game server
-<div style="width: 20%; height: 20%">
 
-![logo](img/README/logo.png)
-
-</div>
+<img src="img/README/logo.png.png" width=50% height=50%>
 
 ## requirement
 1. ubuntu server 20.04
