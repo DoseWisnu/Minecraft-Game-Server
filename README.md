@@ -1,5 +1,5 @@
 # Final Project game server
-<div style="width: 60%; height: 60%">
+<div style="width: 20%; height: 20%">
 
 ![logo](img/README/logo.png)
 
