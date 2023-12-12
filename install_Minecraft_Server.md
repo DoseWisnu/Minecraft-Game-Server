@@ -1,4 +1,4 @@
-#install Minecraft server
+# install Minecraft server
 
 ## Requirement
 Openjdk
