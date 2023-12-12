@@ -4,6 +4,7 @@
 ![logo](img/README/logo.png)
 
 </div>
+
 ## requirement
 1. ubuntu server 20.04
 2. minecraft java edition
