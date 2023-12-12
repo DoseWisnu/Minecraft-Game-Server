@@ -58,6 +58,10 @@ lalu ubah menjadi true
 
 ![delapan](img/Minecraft%20server/8.png)
 
+![sembilan](img/Minecraft%20server/9.png)
+
+jika maka suda seperti ini maka server sudah siap
+
 kita bisa mengatur batas minimu dan maximum ram yang digunakan dengan menam bagkan <code>-Xmx</code> untuk maximu dan <code>-Xms</code> untuk minimu
 contoh:
 
