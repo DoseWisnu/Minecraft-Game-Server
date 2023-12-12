@@ -62,7 +62,7 @@ lalu ubah menjadi true
 
 jika maka suda seperti ini maka server sudah siap
 
-kita bisa mengatur batas minimu dan maximum ram yang digunakan dengan menam bagkan <code>-Xmx</code> untuk maximu dan <code>-Xms</code> untuk minimu
+note: kita bisa mengatur batas minimum dan maximum ram yang digunakan dengan menam bagkan <code>-Xmx</code> untuk maximu dan <code>-Xms</code> untuk minimu
 contoh:
 
 <code>java -Xmx1024M -Xms4G -jar minecreft_server.jar nogui</code>
