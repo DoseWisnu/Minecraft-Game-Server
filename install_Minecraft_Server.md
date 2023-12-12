@@ -24,23 +24,40 @@ Openjdk
 3. izinkan firewall untuk ssh dan juga minecraft server
 
 <code>sudo ufw allow OpenSSH</code>
+
+![dua](img/Minecraft%20server/2.png)
+
 <code>sudo ufw allow 25565</code>
+
+![tiga](img/Minecraft%20server/3.png)
 
 4. aktifkan firewall
 
 <code>sudo ufw enable</code>
 
+![empat](img/Minecraft%20server/4.png)
+
 lalu ketik y
 
 5. cek kembali firewall dengan command sebelunnya
+
+![lima](img/Minecraft%20server/5.png)
 
 6. mengizinkan eula
 
 <code>nano eula.txt</code>
 
+![enam](img/Minecraft%20server/6.png)
+
+lalu ubah menjadi true
+![tujuh](img/Minecraft%20server/7.png)
+
 7. jalan kan server
 
 <code>java -jar minecreft_server.jar nogui</code>
+
+![delapan](img/Minecraft%20server/8.png)
+
 kita bisa mengatur batas minimu dan maximum ram yang digunakan dengan menam bagkan <code>-Xmx</code> untuk maximu dan <code>-Xms</code> untuk minimu
 contoh:
 
