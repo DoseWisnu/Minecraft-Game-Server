@@ -1,6 +1,7 @@
 # Final Project game server
 ## requirement
 1. ubuntu server 20.04
+2. minecraft java edition
 ## serverice yang digunakan
 1. openjdk
 2. wget
