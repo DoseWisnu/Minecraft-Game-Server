@@ -1,5 +1,5 @@
 # Final Project game server
-![satu](img/README/logo1.png) ![dua](img/README/logo2.png)
+![logo](img/README/logo.png)
 ## requirement
 1. ubuntu server 20.04
 2. minecraft java edition
