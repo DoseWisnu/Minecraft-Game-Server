@@ -1,5 +1,9 @@
 # Final Project game server
+<div style="width: 60%; height: 60%">
+
 ![logo](img/README/logo.png)
+
+</div>
 ## requirement
 1. ubuntu server 20.04
 2. minecraft java edition
