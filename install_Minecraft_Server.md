@@ -51,5 +51,5 @@ contoh:
 <code>screen</code>
 
 - jika ingin mengubah settingan server seperti menggubah difficulty level atau semacamnya.
-<code>nano server.properties<code>
+<code>nano server.properties</code>
 
