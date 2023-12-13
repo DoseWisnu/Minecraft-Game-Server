@@ -10,3 +10,5 @@
 
 ![tiga](img/menambahkan%20server%20ke%20dalam%20game/3.png)
 5. jika sudah maka server sudah bisa dimainkan
+
+![empat](img/menambahkan%20server%20ke%20dalam%20game/4.png)
