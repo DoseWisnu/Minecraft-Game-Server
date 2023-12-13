@@ -5,7 +5,7 @@
 game server adalah server yang digunakan untuk menjalankan permainan secara online
 
 ## requirement
-1. VirtualMachine
+1. Virtualbox
 2. ubuntu server 20.04
 3. minecraft java edition
 
