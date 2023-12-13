@@ -13,7 +13,7 @@
 3. screen
 
 ## update progress
-17 oktober install openjdk
-17 oktober install wget
-17 oktober install screen
-3 november install minecraft server
+- 17 oktober install openjdk
+- 17 oktober install wget
+- 17 oktober install screen
+- 3 november install minecraft server
