@@ -2,6 +2,9 @@
 
 <img src="img/README/logo.png" width=50% height=50%>
 
+## apa itu game server?
+game server adalah server yang digunakan untuk menjalankan permainan secara online
+
 ## requirement
 1. ubuntu server 20.04
 2. minecraft java edition
